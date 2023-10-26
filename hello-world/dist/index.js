@@ -1,3 +1,5 @@
 "use strict";
-let numbers = [1, 2, '3'];
+function calculateTax(income) {
+    return 0;
+}
 //# sourceMappingURL=index.js.map
